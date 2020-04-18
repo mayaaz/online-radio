@@ -7,8 +7,8 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="onlineradio"
-        android:icon="@mipmap/ic_launcher"
+        android:label="CITYFM 96.0"
+        android:icon="@mipmap/ic_icon"
         android:usesCleartextTraffic="true"
 
         >

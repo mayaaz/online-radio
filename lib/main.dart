@@ -35,11 +35,11 @@ class _MyAppState extends State<MyApp> {
       home: new Scaffold(
         appBar: new AppBar(
           title: const Text('Online Radio'),
-          backgroundColor: Colors.blue.shade900,
+          backgroundColor: Colors.pink.shade500,
           centerTitle: true,
         ),
         body: Container(
-          color: Colors.blue.shade900,
+          color: Colors.pink.shade600,
           child: Column(
             children: <Widget>[
               Expanded(
